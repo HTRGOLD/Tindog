@@ -1,2 +1,1 @@
-# Tindog
-An online geosocial networking application for dogs. 
+TinDog Starting Files
